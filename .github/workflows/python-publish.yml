@@ -37,3 +37,4 @@ jobs:
         SERVE: ${{ secrets.SERVE }}
         SCKEY: ${{ secrets.SCKEY }}
         COOKIE: ${{ secrets.COOKIE }}
+        COOKIE2: ${{ secrets.COOKIE2 }}
