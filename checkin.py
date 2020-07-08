@@ -9,6 +9,7 @@ sckey = os.environ["SCKEY"]
 # 填入glados账号对应cookie
 cookie = os.environ["COOKIE"]
 
+cookie2 = os.environ["COOKIE2"]
 
 def start():    
     url= "https://glados.rocks/api/user/checkin"
@@ -16,7 +17,6 @@ def start():
     referer = 'https://glados.rocks/console/checkin'
     checkin = requests.post(url,headers={'cookie': cookie ,'referer': referer })
     state =  requests.get(url2,headers={'cookie': cookie ,'referer': referer})
-    #print(res)
 
     if 'message' in checkin.text:
         mess = checkin.json()['message']
