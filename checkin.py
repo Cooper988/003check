@@ -18,8 +18,8 @@ def start():
     checkin = requests.post(url,headers={'cookie': cookie ,'referer': referer })
     state =  requests.get(url2,headers={'cookie': cookie ,'referer': referer})
 
-    checkin2 = requests.post(url,headers={'cookie2': cookie ,'referer': referer })
-    state2 =  requests.get(url2,headers={'cookie2': cookie ,'referer': referer})
+    checkin2 = requests.post(url,headers={'cookie2': cookie2 ,'referer': referer })
+    state2 =  requests.get(url2,headers={'cookie2': cookie2 ,'referer': referer})
     
     if 'message' in checkin.text:
         mess = checkin.json()['message']
