@@ -9,7 +9,6 @@ sckey = os.environ["SCKEY"]
 # 填入glados账号对应cookie
 cookie = os.environ["COOKIE"]
 
-cookie2 = os.environ["COOKIE2"]
 
 def start():    
     url= "https://glados.rocks/api/user/checkin"
