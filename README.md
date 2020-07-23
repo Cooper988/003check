@@ -35,7 +35,7 @@
    - SERVE（server酱开关，默认是off，填on的话，会同时开启cookie失效通知和签到成功通知）
    - SCKEY（填写server酱sckey，不开启server酱则不用填）
 
-5. 提交后，每天零点会自动触发，并会执行自动checkin，如果开启server酱，会自动发通知到微信上。
+5. 以上设置完毕后，每天零点会自动触发，并会执行自动checkin，如果开启server酱，会自动发通知到微信上。
 
 6. 如果以上都不会的话，注册GLaDOS后，每天勤奋点记得登录后手动进行checkin即可。
 
