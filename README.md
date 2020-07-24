@@ -23,13 +23,13 @@
 
 #### 食用姿势：
 
-1. 先“Fork”本仓库。
+1. 先“Fork”本仓库。（不需要修改任何文件！）
 
 2. 注册GLaDOS，方法见上。
 
 3. 登录GLaDOS后获取cookies。（简单获取方法：浏览器快捷键F12，打开调试窗口，点击“network”获取）
 
-4. 在仓库“Settings”里创建3个“Secrets”，分别是：（不开启通知，只需要创建COOKIE即可）
+4. 在自己的仓库“Settings”里创建3个“Secrets”，分别是：（不开启通知，只需要创建一个COOKIE即可）
 
    - COOKIE（**必填**）
    - SERVE（server酱开关，默认是off，填on的话，会同时开启cookie失效通知和签到成功通知）
