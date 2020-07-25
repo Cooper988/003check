@@ -29,7 +29,7 @@ jobs:
     - name: requirements
       run: |
         pip3 install -r requirements.txt
-        
+       # if [ -f requirements.txt ]; then pip install -r requirements.txt; fi 
     - name: Checkin
       run: |
         python3 checkin.py 
