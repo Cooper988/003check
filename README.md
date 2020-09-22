@@ -1,3 +1,4 @@
+# 高能预警：官方已关闭网页签到，改为绑定Telegram账号签到！
 # glados-checkin
 ![glados-checkin](https://github.com/hbstarjason/glados-checkin/workflows/glados-checkin/badge.svg)
 
