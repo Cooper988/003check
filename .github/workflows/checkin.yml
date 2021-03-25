@@ -9,7 +9,8 @@ on:
   schedule:
     - cron:  0 10,16 * * * 
       # 
-      # https://tool.lu/crontab/ 
+      # https://tool.lu/crontab/
+      # https://datetime360.com/cn/utc-cst-china-time/
   #watch:
   #    types: started   
 
