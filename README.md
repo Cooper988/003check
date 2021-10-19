@@ -1,4 +1,4 @@
-### 高能预警：现在签到全凭人品~
+### 最近恢复每天签到都会+天数了~喜大普奔
 # glados-checkin
 ![glados-checkin](https://github.com/hbstarjason/glados-checkin/workflows/glados-checkin/badge.svg)
 
