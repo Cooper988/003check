@@ -1,4 +1,5 @@
-### 最近恢复每天签到都会+天数了~喜大普奔
+### 教程
+![图文解释Glados自动签到免费获取天数（github action版）](https://blog.csdn.net/weixin_37551036/article/details/115415358#comments_20477176)
 # glados-checkin
 ![glados-checkin](https://github.com/hbstarjason/glados-checkin/workflows/glados-checkin/badge.svg)
 
@@ -18,7 +19,7 @@
 
 2、通过cookies自动登录（[https://glados.rocks/console/checkin](https://glados.rocks/console/checkin))，脚本会自动进行checkin。
 
-3、然后通过“Server酱”（[http://sc.ftqq.com/3.version](http://sc.ftqq.com/3.version))，自动发通知到微信上。
+3、然后通过“Server酱”（[https://sct.ftqq.com/](https://sct.ftqq.com/))，自动发通知到微信上。
 
 
 
