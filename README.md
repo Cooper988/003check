@@ -1,5 +1,5 @@
 ### 教程
-![图文解释Glados自动签到免费获取天数（github action版）](https://blog.csdn.net/weixin_37551036/article/details/115415358)
+https://blog.csdn.net/weixin_37551036/article/details/115415358
 # glados-checkin
 ![glados-checkin](https://github.com/hbstarjason/glados-checkin/workflows/glados-checkin/badge.svg)
 
