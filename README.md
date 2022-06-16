@@ -3,6 +3,8 @@ https://blog.csdn.net/weixin_37551036/article/details/115415358
 # glados-checkin
 ![glados-checkin](https://github.com/hbstarjason/glados-checkin/workflows/glados-checkin/badge.svg)
 
+
+
 #### 注册地址：
 
 1、打开 https://github.com/glados-network/GLaDOS ，找到[<u>***Register***</u>]，打开链接，填写邮箱进行登录。
