@@ -22,7 +22,6 @@ https://blog.csdn.net/weixin_37551036/article/details/115415358
 3、然后通过“Server酱”（[https://sct.ftqq.com/](https://sct.ftqq.com/))，自动发通知到微信上。
 
 
-
 #### 食用姿势：
 
 1. 先“Fork”本仓库。（不需要修改任何文件！）
