@@ -1,6 +1,6 @@
 import requests,json,os
 import cloudscraper
-scraper = cloudscraper.create_scraper()
+scraper = cloudscraper.create_scraper(disableCloudflareV1=True)
 # server酱开关，填off不开启(默认)，填on同时开启cookie失效通知和签到成功通知
 sever = os.environ["SERVE"]
 
