@@ -31,6 +31,7 @@ jobs:
     - name: requirements
       run: |
         pip3 install -r requirements.txt
+        pip3 install cloudscraper
        # if [ -f requirements.txt ]; then pip install -r requirements.txt; fi 
     - name: Checkin
       run: |

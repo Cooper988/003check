@@ -3,6 +3,7 @@ https://blog.csdn.net/weixin_37551036/article/details/115415358
 # glados-checkin
 ![glados-checkin](https://github.com/hbstarjason/glados-checkin/workflows/glados-checkin/badge.svg)
 
+
 #### 注册地址：
 
 1、打开 https://github.com/glados-network/GLaDOS ，找到[<u>***Register***</u>]，打开链接，填写邮箱进行登录。
@@ -10,8 +11,7 @@ https://blog.csdn.net/weixin_37551036/article/details/115415358
 2、输入激活码`LC4CI-CBO6S-RXV13-LT7ND`，进行激活，获得3天试用。
 
 3、每天手动进行checkin一次，能增加一天。
-
-
+ 
 
 #### 脚本功能：
 
@@ -20,7 +20,6 @@ https://blog.csdn.net/weixin_37551036/article/details/115415358
 2、通过cookies自动登录（[https://glados.rocks/console/checkin](https://glados.rocks/console/checkin))，脚本会自动进行checkin。
 
 3、然后通过“Server酱”（[https://sct.ftqq.com/](https://sct.ftqq.com/))，自动发通知到微信上。
-
 
 
 #### 食用姿势：
