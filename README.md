@@ -83,7 +83,9 @@ server酱地址：https://sct.ftqq.com/login
 ![在这里插入图片描述](https://picture-1308610694.cos.ap-nanjing.myqcloud.com/202207221453814.png)
 
 打开微信看是否收到Server酱发来的通知：
+
 ![在这里插入图片描述](https://picture-1308610694.cos.ap-nanjing.myqcloud.com/202207221453852.png)
+
 点进去会看到详细的签到结果，注意并不是每次签到都一定会增加1天，有可能提示你明天再来
 
 这不是脚本的问题，是glados官网设定的有一定几率签到获得天数
