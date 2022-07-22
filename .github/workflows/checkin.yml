@@ -3,7 +3,7 @@ name: glados-checkin
 on:
 
   schedule:
-  - cron: 21 6 * * *
+  - cron: 0 16 * * * 
 
   workflow_dispatch:
 
